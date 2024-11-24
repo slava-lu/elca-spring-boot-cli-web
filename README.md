@@ -22,3 +22,10 @@ The Elca Spring Boot Web Module contains the necessary dependencies to integrate
 * Rest Repositories HAL Explorer
 * Spring REST Docs
 * Springdoc-openapi (Swagger)
+
+## Additional info
+* After starting the app the repository is initialized with two Todo items.
+* Get All Todos: http://localhost:8080/api/todo
+* Get a Single Todo: http://localhost:8080/api/todo/1
+* All available endpoints can be viewed with Swagger http://localhost:8080/swagger-ui/index.html
+
