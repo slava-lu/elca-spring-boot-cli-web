@@ -1,10 +1,10 @@
-package ch.elca.boot_cli_web;
+package com.example.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BootCliWebApplicationTests {
+class SampleApplicationTests {
 
 	@Test
 	void contextLoads() {

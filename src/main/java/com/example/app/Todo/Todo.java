@@ -1,4 +1,4 @@
-package ch.elca.boot_cli_web.Todo;
+package com.example.app.Todo;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

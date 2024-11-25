@@ -1,4 +1,4 @@
-package ch.elca.boot_cli_web.Todo;
+package com.example.app.Todo;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
