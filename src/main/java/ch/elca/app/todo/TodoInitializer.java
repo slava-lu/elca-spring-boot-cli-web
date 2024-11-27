@@ -1,4 +1,4 @@
-package com.example.app.todo;
+package ch.elca.app.todo;
 
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;

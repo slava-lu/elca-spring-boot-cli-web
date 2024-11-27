@@ -1,4 +1,4 @@
-package com.example.app.infrastructure.configuration;
+package ch.elca.app.infrastructure.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
