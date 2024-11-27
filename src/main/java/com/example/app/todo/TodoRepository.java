@@ -1,4 +1,4 @@
-package com.example.app.Todo;
+package com.example.app.todo;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
