@@ -23,6 +23,7 @@ public class SecurityConfig {
                             "/swagger-ui/**",
                             "/swagger-ui.html",
                             "index.html",
+                            "/api",
                             "/login",
                             "/logout")
                     .permitAll()
